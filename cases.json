@@ -1,0 +1,61 @@
+[
+  {
+    "case_number": "CASE-2024-001",
+    "title": "HBL Bank Heist - Blue Area",
+    "description": "Robbery of PKR 5M from HBL branch. 2 suspects identified.",
+    "status": "open",
+    "filed_date": "2024-01-15",
+    "closed_date": null,
+    "crime_type": "Armed Robbery",
+    "judge_name": "Nadia Malik",
+    "lead_investigator": "Zafar Iqbal",
+    "suspects": ["Ali Hassan"],
+    "hearings": [
+      {
+        "hearing_date": "2024-02-05",
+        "location": "IHC Courtroom 3",
+        "outcome": "Bail denied - high flight risk",
+        "notes": null
+      },
+      {
+        "hearing_date": "2024-04-15",
+        "location": "IHC Courtroom 3",
+        "outcome": "Defence alibi presented",
+        "notes": "Next date set for June 2024"
+      }
+    ],
+    "verdict": null
+  },
+  {
+    "case_number": "CASE-2023-005",
+    "title": "Mobile Snatching - F-7 Market",
+    "description": "Armed snatching of mobile phones from 3 victims in F-7 Market.",
+    "status": "closed",
+    "filed_date": "2023-06-01",
+    "closed_date": "2023-11-15",
+    "crime_type": "Armed Robbery",
+    "judge_name": "Nadia Malik",
+    "lead_investigator": "Zafar Iqbal",
+    "suspects": ["Sara Khan"],
+    "hearings": [
+      {
+        "hearing_date": "2023-07-10",
+        "location": "IHC Courtroom 1",
+        "outcome": "Evidence presented to court",
+        "notes": null
+      },
+      {
+        "hearing_date": "2023-09-20",
+        "location": "IHC Courtroom 1",
+        "outcome": "Final arguments heard",
+        "notes": null
+      }
+    ],
+    "verdict": {
+      "decision": "guilty",
+      "sentence": "3 years imprisonment",
+      "fine_amount": 50000,
+      "date_issued": "2023-11-15"
+    }
+  }
+]

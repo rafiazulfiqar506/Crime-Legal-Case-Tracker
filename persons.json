@@ -1,0 +1,142 @@
+[
+  {
+    "full_name": "Ali Hassan",
+    "national_id": "42101-1234567-1",
+    "dob": "1990-05-12",
+    "gender": "M",
+    "phone": "03001234567",
+    "email": "ali@email.com",
+    "address": "House 5, Lahore",
+    "roles": ["suspect"],
+    "suspect_details": {
+      "risk_level": "high",
+      "status": "arrested",
+      "arrest_date": "2024-01-10",
+      "criminal_record": "Prior theft 2019, assault 2021"
+    },
+    "witness_details": null,
+    "lawyer_details": null,
+    "judge_details": null,
+    "investigator_details": null
+  },
+  {
+    "full_name": "Sara Khan",
+    "national_id": "42301-9876543-2",
+    "dob": "1985-08-23",
+    "gender": "F",
+    "phone": "03009876543",
+    "email": "sara@email.com",
+    "address": "Block B, Karachi",
+    "roles": ["suspect", "witness"],
+    "suspect_details": {
+      "risk_level": "low",
+      "status": "wanted",
+      "arrest_date": null,
+      "criminal_record": null
+    },
+    "witness_details": {
+      "protection_status": true,
+      "statement": "The accused claims the bag contained personal items.",
+      "credibility_score": 5
+    },
+    "lawyer_details": null,
+    "judge_details": null,
+    "investigator_details": null
+  },
+  {
+    "full_name": "Imran Butt",
+    "national_id": "13302-1112222-3",
+    "dob": "1978-03-01",
+    "gender": "M",
+    "phone": "03111112222",
+    "email": "imran@justicelaw.com",
+    "address": "Court Road, Islamabad",
+    "roles": ["lawyer"],
+    "suspect_details": null,
+    "witness_details": null,
+    "lawyer_details": {
+      "bar_number": "BAR-2024-001",
+      "specialization": "Criminal Defense",
+      "firm_name": "Justice and Partners LLP",
+      "years_experience": 15
+    },
+    "judge_details": null,
+    "investigator_details": null
+  },
+  {
+    "full_name": "Nadia Malik",
+    "national_id": "61101-1234444-4",
+    "dob": "1980-11-15",
+    "gender": "F",
+    "phone": "03221234444",
+    "email": "nadia@court.gov.pk",
+    "address": "Sector G-9, Islamabad",
+    "roles": ["judge"],
+    "suspect_details": null,
+    "witness_details": null,
+    "lawyer_details": null,
+    "judge_details": {
+      "court_name": "Islamabad High Court",
+      "appointment_date": "2015-06-01",
+      "jurisdiction": "Federal Crimes"
+    },
+    "investigator_details": null
+  },
+  {
+    "full_name": "Zafar Iqbal",
+    "national_id": "37405-1231234-5",
+    "dob": "1992-07-07",
+    "gender": "M",
+    "phone": "03331231234",
+    "email": "zafar@fia.gov.pk",
+    "address": "F-8, Islamabad",
+    "roles": ["investigator"],
+    "suspect_details": null,
+    "witness_details": null,
+    "lawyer_details": null,
+    "judge_details": null,
+    "investigator_details": {
+      "badge_number": "FIA-001",
+      "rank": "Senior Inspector",
+      "department": "Federal Investigation Agency"
+    }
+  },
+  {
+    "full_name": "Hira Ahmed",
+    "national_id": "35202-1239876-6",
+    "dob": "1995-02-20",
+    "gender": "F",
+    "phone": "03441239876",
+    "email": "hira@email.com",
+    "address": "DHA, Lahore",
+    "roles": ["witness"],
+    "suspect_details": null,
+    "witness_details": {
+      "protection_status": false,
+      "statement": "I saw the accused near the bank at 10:45 AM.",
+      "credibility_score": 8
+    },
+    "lawyer_details": null,
+    "judge_details": null,
+    "investigator_details": null
+  },
+  {
+    "full_name": "Ahmad Raza",
+    "national_id": "61101-9999999-9",
+    "dob": "1975-04-10",
+    "gender": "M",
+    "phone": "03009999999",
+    "email": "ahmad@court.gov.pk",
+    "address": "Blue Area, Islamabad",
+    "roles": ["judge"],
+    "suspect_details": null,
+    "witness_details": null,
+    "lawyer_details": null,
+    "judge_details": {
+      "court_name": "Lahore High Court",
+      "appointment_date": "2012-03-01",
+      "jurisdiction": "Criminal Cases"
+    },
+    "investigator_details": null
+  }
+]
